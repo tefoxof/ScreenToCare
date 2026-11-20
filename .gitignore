@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+*.local
+*.zip
+
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+carebridge-ui/node_modules/
+carebridge-ui/dist/
+
+*.log
